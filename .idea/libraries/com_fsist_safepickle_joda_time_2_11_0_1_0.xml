@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="com.fsist:safepickle-joda-time_2.11:0.1.0" type="repository">
+    <properties maven-id="com.fsist:safepickle-joda-time_2.11:0.1.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/safepickle-joda-time_2.11-0.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-compiler-2.11.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.11.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-reflect-2.11.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-xml_2.11-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-parser-combinators_2.11-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-logging_2.11-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/joda-convert-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/joda-time-2.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

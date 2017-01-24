@@ -1,0 +1,26 @@
+.labelError {
+    -fx-background-image: url('/app/Views/icons/error-icon.png');
+    -fx-background-size: 20px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: left;
+    -fx-padding: 0 0 0 30;
+    -fx-text-fill: red;
+    -fx-font-weight: bold;
+    visibility: visible;
+}
+
+.errorOut {
+    -fx-background-color: #ffbfa8;
+    -fx-text-fill: red;
+    -fx-border-style: solid;
+    -fx-border-color:red;
+    -fx_border-width: 4px;
+    visibility: visible;}
+
+.approved {
+    -fx-background-color: #ffffff;
+    -fx-border-style: solid;
+    -fx-border-color: #30ff3f;
+    -fx_border-width: 4px;
+}
+

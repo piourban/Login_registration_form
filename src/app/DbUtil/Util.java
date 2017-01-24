@@ -10,9 +10,9 @@ import java.sql.SQLException;
 public class Util {
 
     private static final String driver = "com.microsoft.sqlserver.jdbc.SQLServerDriver";
-    private static final String dbPath = "jdbc:sqlserver://localhost\\DESKTOP-F538JNC:1433;databaseName=Clinic";
-    private static final String user = "bossuag";
-    private static final String password = "password";
+    private static final String dbPath = "";
+    private static final String user = "";
+    private static final String password = "";
 
     public static Connection dbConnect() throws ClassNotFoundException, SQLException {
 

@@ -1,4 +1,4 @@
-# Login_registration_form
+# Login & registration form
 JavaFX registration and login form example. Made for future use.<br/> 
 To provide database connection remember to fill in "dbPath", "user" and "password" details in "Util" class.<br/>
 If you are not using MS SQL database then replace also driver details.<br/>
